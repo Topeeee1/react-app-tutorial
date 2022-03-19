@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Roy to <code>src/App.js</code> Roy to
+        Homepage to <code>src/App.js</code> Homepage to
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Roy to
+          Homepage to
         </a>
       </header>
     </div>
