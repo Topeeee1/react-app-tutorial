@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        frontend to <code>src/App.js</code> frontend to
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tope awit
+          frontend to
         </a>
       </header>
     </div>
