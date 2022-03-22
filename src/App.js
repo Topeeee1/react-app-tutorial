@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        frontend to <code>src/App.js</code> frontend to
+        frontend v2 to <code>src/App.js</code> frontend v2 to
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          frontend to
+          frontend to v2
         </a>
       </header>
     </div>
